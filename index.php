@@ -17,6 +17,14 @@
         echo "<p>Mahasiswa ke-$i</p>";
     }
     ?>
+
+    <hr>
+    <h1>Data Dosen</h1>
+    <?php
+    for ($i = 0; $i < 10; $i++) {
+        echo "<p>Dosen ke-$i</p>";
+    }
+    ?>
 </body>
 
 </html>
